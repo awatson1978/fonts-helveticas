@@ -3,6 +3,6 @@
     "description": "Meteorite package to add various fonts in the Helvetica family to a Meteor app.",
     "homepage": "https://github.com/awatson1978/fonts-pseudo-helveticas",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "git": "https://github.com/awatson1978/fonts-pseudo-helveticas.git"
 }
