@@ -1,13 +1,173 @@
-@font-face
-{
-    font-family: HelveticaLight;
-    src: url('/fonts/HelveticaLight.ttf');
-}
-.helveticalight{
-    font-family: HelveticaLight;
-}
 
-.helvetica{
+.helveticas{
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     font-weight: 300;
 }
+
+
+
+
+
+
+@font-face
+{
+    font-family: ColaborateLight;
+    src: url('/fonts/ColaborateLight.otf');
+}
+@font-face
+{
+    font-family: ColaborateBold;
+    src: url('/fonts/ColaborateBold.otf');
+}
+@font-face
+{
+    font-family: ColaborateMedium;
+    src: url('/fonts/ColaborateMedium.otf');
+}
+@font-face
+{
+    font-family: ColaborateRegular;
+    src: url('/fonts/ColaborateRegular.otf');
+}
+@font-face
+{
+    font-family: ColaborateThin;
+    src: url('/fonts/ColaborateThin.otf');
+}
+.ColaborateLight, .colaborate-light{
+    font-family: "ColaborateLight";
+}
+.ColaborateBold, .colaborate-bold{
+    font-family: "ColaborateBold";
+}
+.ColaborateMedium, .colaborate-medium{
+    font-family: "ColaborateMedium";
+}
+.ColaborateRegular, .colaborate-regular{
+    font-family: "ColaborateRegular";
+}
+.ColaborateThin, .colaborate-thin{
+    font-family: "ColaborateThin";
+}
+
+
+@font-face
+{
+    font-family: ExistenceLight;
+    src: url('/fonts/ExistenceLight.otf');
+}
+@font-face
+{
+    font-family: ExistenceStencilLight;
+    src: url('/fonts/ExistenceStencilLight.otf');
+}
+@font-face
+{
+    font-family: ExistenceUnicaseLight;
+    src: url('/fonts/ExistenceUnicaseLight.otf');
+}
+.ExistenceLight, .existence-light{
+    font-family: "ExistenceLight";
+}
+.ExistenceStencilLight, .existence-stencil-light{
+    font-family: "ExistenceStencilLight";
+}
+.ExistenceUnicaseLight, .existence-unicase-light{
+    font-family: "ExistenceUnicaseLight";
+}
+
+
+
+
+@font-face
+{
+    font-family: PrintClearly;
+    src: url('/fonts/PrintClearly.otf');
+}
+@font-face
+{
+    font-family: PrintClearlyBold;
+    src: url('/fonts/PrintClearlyBold.otf');
+}
+@font-face
+{
+    font-family: PrintClearlyDashed;
+    src: url('/fonts/PrintClearlyDashed.otf');
+}
+.PrintClearly, .print-clearly{
+    font-family: "PrintClearly";
+}
+.PrintClearlyBold, .print-clearly-bold{
+    font-family: "PrintClearlyBold";
+}
+.PrintClearlyDashed, .print-clearly-dashed{
+    font-family: "PrintClearlyDashed";
+}
+
+
+
+
+@font-face
+{
+    font-family: QuicksandBold;
+    src: url('/fonts/QuicksandBold.otf');
+}
+@font-face
+{
+    font-family: QuicksandBoldOblique;
+    src: url('/fonts/QuicksandBoldOblique.otf');
+}
+@font-face
+{
+    font-family: QuicksandBook;
+    src: url('/fonts/QuicksandBook.otf');
+}
+@font-face
+{
+    font-family: QuicksandBookOblique;
+    src: url('/fonts/QuicksandBookOblique.otf');
+}
+@font-face
+{
+    font-family: QuicksandDash;
+    src: url('/fonts/QuicksandDash.otf');
+}
+@font-face
+{
+    font-family: QuicksandLight;
+    src: url('/fonts/QuicksandLight.otf');
+}
+@font-face
+{
+    font-family: QuicksandLightOblique;
+    src: url('/fonts/QuicksandLightOblique.otf');
+}
+
+
+.QuicksandBold, .quicksand-bold{
+    font-family: "QuicksandBold";
+}
+.QuicksandBoldOblique, .quicksand-bold-oblique{
+    font-family: "QuicksandBoldOblique";
+}
+.QuicksandBook, .quicksand-book{
+    font-family: "QuicksandBook";
+}
+.QuicksandBookOblique, .quicksand-book-oblique{
+    font-family: "QuicksandBookOblique";
+}
+.QuicksandDash, .quicksand-dash{
+    font-family: "QuicksandDash";
+}
+.QuicksandLight, .quicksand-light{
+    font-family: "QuicksandLight";
+}
+.QuicksandLightOblique, .quicksand-light-oblique{
+    font-family: "QuicksandLightOblique";
+}
+
+
+
+
+
+
