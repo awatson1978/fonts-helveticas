@@ -22,7 +22,7 @@ Second, add the 'helveticas' class to the appropriate HTML tags, like so.  Dead 
 ------------------------
 ### Lexicon
 
-fonts-barcode supports the following lexicon, so feel free to use whichever works best in your syntax.
+fonts-helveticas supports the following lexicon, so feel free to use whichever works best in your syntax.
 
 ````
 helveticas
