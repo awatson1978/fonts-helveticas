@@ -34,3 +34,5 @@ helveticas-light
 
 This font was downloaded from:  
 http://ttfonts.net/font/20162_Helvetica-Light.htm
+
+Some restrictions may or may not apply.  Use at your own risk.
