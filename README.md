@@ -29,3 +29,8 @@ helveticas
 helveticas-light
 ````
 
+------------------------
+### Licensing
+
+This font was downloaded from:
+http://ttfonts.net/font/20162_Helvetica-Light.htm
