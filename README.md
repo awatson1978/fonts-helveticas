@@ -22,24 +22,45 @@ Second, add the 'helveticas' class to the appropriate HTML tags, like so.  Dead 
 ------------------------
 ### Lexicon
 
-fonts-helveticas supports the following lexicon, so feel free to use whichever works best in your syntax.
+fonts-helveticas provides the following CSS classes.  They're also available in camelCase, so feel free to use whichever casing works best in your syntax.
 
 ````
 helveticas
-helveticas-light
+
+colaborate-light
+colaborate-bold
+colaborate-medium
+colaborate-regular
+colaborate-thin
+
+existence-light
+existence-stencil-light
+existence-unicase-light
+
+print-clearly
+print-clearly-bold
+print-clearly-dashed
+
+quicksand-bold
+quicksand-bold-oblique
+quicksand-book
+quicksand-book-oblique
+quicksand-dash
+quicksand-light
+quicksand-light-oblique
+
 ````
 
 
 ------------------------
 ### Note
 
-To be perfectly honest,  fonts-helveticas doesn't work all that well.
-
+To be perfectly honest, the pseudo-helvetica fonts in this package are good, but not great.  They're workable substitutes for devices lacking a proper Helvetica Light font, but if anybody wants to swap them out for better selections, I'd be more than happy to accept pull requests.
 
 ------------------------
 ### Licensing
 
-This font was downloaded from:  
-http://ttfonts.net/font/20162_Helvetica-Light.htm
+These fonts were downloaded from:  
+http://www.fontsquirrel.com/fonts/list/style/Sans%20Serif/50/
 
-Some restrictions may or may not apply.  Use at your own risk.
+They should all be 100% free for commercial use.
