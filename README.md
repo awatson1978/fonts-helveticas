@@ -29,6 +29,13 @@ helveticas
 helveticas-light
 ````
 
+
+------------------------
+### Note
+
+To be perfectly honest,  fonts-helveticas doesn't work all that well.
+
+
 ------------------------
 ### Licensing
 
