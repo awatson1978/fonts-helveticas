@@ -12,27 +12,27 @@
 @font-face
 {
     font-family: ColaborateLight;
-    src: url('/fonts/ColaborateLight.otf');
+    src: url('/packages/fonts-helveticas/fonts/ColaborateLight.otf');
 }
 @font-face
 {
     font-family: ColaborateBold;
-    src: url('/fonts/ColaborateBold.otf');
+    src: url('/packages/fonts-helveticas/fonts/ColaborateBold.otf');
 }
 @font-face
 {
     font-family: ColaborateMedium;
-    src: url('/fonts/ColaborateMedium.otf');
+    src: url('/packages/fonts-helveticas/fonts/ColaborateMedium.otf');
 }
 @font-face
 {
     font-family: ColaborateRegular;
-    src: url('/fonts/ColaborateRegular.otf');
+    src: url('/packages/fonts-helveticas/fonts/ColaborateRegular.otf');
 }
 @font-face
 {
     font-family: ColaborateThin;
-    src: url('/fonts/ColaborateThin.otf');
+    src: url('/packages/fonts-helveticas/fonts/ColaborateThin.otf');
 }
 .ColaborateLight, .colaborate-light{
     font-family: "ColaborateLight";
@@ -54,17 +54,17 @@
 @font-face
 {
     font-family: ExistenceLight;
-    src: url('/fonts/ExistenceLight.otf');
+    src: url('/packages/fonts-helveticas/fonts/ExistenceLight.otf');
 }
 @font-face
 {
     font-family: ExistenceStencilLight;
-    src: url('/fonts/ExistenceStencilLight.otf');
+    src: url('/packages/fonts-helveticas/fonts/ExistenceStencilLight.otf');
 }
 @font-face
 {
     font-family: ExistenceUnicaseLight;
-    src: url('/fonts/ExistenceUnicaseLight.otf');
+    src: url('/packages/fonts-helveticas/fonts/ExistenceUnicaseLight.otf');
 }
 .ExistenceLight, .existence-light{
     font-family: "ExistenceLight";
@@ -82,17 +82,17 @@
 @font-face
 {
     font-family: PrintClearly;
-    src: url('/fonts/PrintClearly.otf');
+    src: url('/packages/fonts-helveticas/fonts/PrintClearly.otf');
 }
 @font-face
 {
     font-family: PrintClearlyBold;
-    src: url('/fonts/PrintClearlyBold.otf');
+    src: url('/packages/fonts-helveticas/fonts/PrintClearlyBold.otf');
 }
 @font-face
 {
     font-family: PrintClearlyDashed;
-    src: url('/fonts/PrintClearlyDashed.otf');
+    src: url('/packages/fonts-helveticas/fonts/PrintClearlyDashed.otf');
 }
 .PrintClearly, .print-clearly{
     font-family: "PrintClearly";
@@ -110,37 +110,37 @@
 @font-face
 {
     font-family: QuicksandBold;
-    src: url('/fonts/QuicksandBold.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandBold.otf');
 }
 @font-face
 {
     font-family: QuicksandBoldOblique;
-    src: url('/fonts/QuicksandBoldOblique.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandBoldOblique.otf');
 }
 @font-face
 {
     font-family: QuicksandBook;
-    src: url('/fonts/QuicksandBook.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandBook.otf');
 }
 @font-face
 {
     font-family: QuicksandBookOblique;
-    src: url('/fonts/QuicksandBookOblique.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandBookOblique.otf');
 }
 @font-face
 {
     font-family: QuicksandDash;
-    src: url('/fonts/QuicksandDash.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandDash.otf');
 }
 @font-face
 {
     font-family: QuicksandLight;
-    src: url('/fonts/QuicksandLight.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandLight.otf');
 }
 @font-face
 {
     font-family: QuicksandLightOblique;
-    src: url('/fonts/QuicksandLightOblique.otf');
+    src: url('/packages/fonts-helveticas/fonts/QuicksandLightOblique.otf');
 }
 
 
