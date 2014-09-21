@@ -20,7 +20,7 @@ Second, add the 'helveticas' class to the appropriate HTML tags, like so.  Dead 
 
 
 ------------------------
-### Lexicon
+### Syntax
 
 fonts-helveticas provides the following CSS classes.  They're also available in camelCase, so feel free to use whichever casing works best in your syntax.
 
@@ -64,10 +64,3 @@ These fonts were downloaded from:
 http://www.fontsquirrel.com/fonts/list/style/Sans%20Serif/50/
 
 They should all be 100% free for commercial use.
-
-------------------------
-### Support
-Found this package to be useful?  Consider tipping the package maintainer for their time!  
-
-[![Support via Gittip](https://raw.github.com/gittip/www.gittip.com/master/www/assets/gittip.png)](https://www.gittip.com/awatson1978/)  
-
