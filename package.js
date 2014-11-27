@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Meteorite package to add various fonts in the Helvetica family to a Meteor app.',
-  version: '1.0.1',
+  version: '1.0.2',
   name: 'awatson1978:fonts-helveticas',
   git: 'http://github.com/awatson1978/fonts-helveticas.git'
 });
