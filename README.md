@@ -8,7 +8,7 @@ Meteorite package for adding fonts in the Helvetica family to Meteor apps.   The
 First, install the fonts-helveticas package from the command line, like so:
 
 ````
-meteor add fonts-helveticas
+meteor add awatson1978:fonts-helveticas
 ````
 
 ==================================
